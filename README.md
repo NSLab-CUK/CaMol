@@ -82,8 +82,6 @@ The following options can be passed to the below commands for fine-tuning the mo
 
 ```--norm:``` The use of batch normalization. For example: ```--norm 1```
 
-```
-
 
 ## 3. Reference
 
