@@ -1,0 +1,2 @@
+INFO:root:Starting on device: cuda:0
+INFO:root:Config: Namespace(device='cuda:0', dataset='Tox21', model='Mainmodel', k_shot=1, norm=1, num_tasks=12, num_test_p=3, sub_dataset='_', num_eposides=100, num_query=4, num_features=64, num_classes=1, hidden_dim=64, run_times=1, batch_size=1, lr_inner=0.001, lr_outer=0.001, tasks_per_epoch=16, fn_epoches=1000, k_transition=1, d_transfer=32, num_features_org=64) 
