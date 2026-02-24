@@ -104,7 +104,7 @@ Please cite our [paper](https://arxiv.org/abs/2601.11135) if you find *CaMol* us
 }
 ```
 
-Please take a look at our unified graph transformer model, [**UGT**](https://github.com/NSLab-CUK/Unified-Graph-Transformer), which can preserve local and globl graph structure, and community-aware graph transformer model, [**CGT**](https://github.com/NSLab-CUK/Community-aware-Graph-Transformer), which can mitigate degree bias problem of message passing mechanism, [**S-CGIB**](https://github.com/NSLab-CUK/S-CGIB), which builds a pre-trained Graph Neural Network (GNN) model on molecules without human annotations or prior knowledge, and [**MVCIB**](https://github.com/NSLab-CUK/MVCIB), which builds a pre-trained GNN model on 2D and 3D molecular structures, together. 
+Please take a look at our unified graph transformer model, [**UGT**](https://github.com/NSLab-CUK/Unified-Graph-Transformer), which can preserve local and globl graph structure, community-aware graph transformer model, [**CGT**](https://github.com/NSLab-CUK/Community-aware-Graph-Transformer), which can mitigate degree bias problem of message passing mechanism, [**S-CGIB**](https://github.com/NSLab-CUK/S-CGIB), which builds a pre-trained Graph Neural Network (GNN) model on molecules without human annotations or prior knowledge, and [**MVCIB**](https://github.com/NSLab-CUK/MVCIB), which builds a pre-trained GNN model on 2D and 3D molecular structures, together. 
 
 
 ## 5. Contributors
