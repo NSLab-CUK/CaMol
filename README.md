@@ -8,13 +8,13 @@ CaMol is a novel architecture for predicting molecular property in few-shot scen
   <a href="https://github.com/pytorch/pytorch">
     <img src="https://img.shields.io/badge/PyTorch->=1.4-FF6F00?logo=pytorch&style=flat-square" alt="pytorch">
   </a>    
-  <img src="https://custom-icon-badges.demolab.com/github/last-commit/NSLab-CUK/MVCIB?logo=history&logoColor=white&style=flat-square"/>
-  <img src="https://custom-icon-badges.demolab.com/github/languages/code-size/NSLab-CUK/MVCIB?logo=file-code&logoColor=white&style=flat-square"/>
-  <img src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/NSLab-CUK/MVCIB?color=purple&logo=git-pull-request&logoColor=white&style=flat-square"/>
-  <img src="https://custom-icon-badges.demolab.com/github/v/tag/NSLab-CUK/MVCIB?logo=tag&logoColor=white&style=flat-square"/>
-  <img src="https://custom-icon-badges.demolab.com/github/stars/NSLab-CUK/MVCIB?logo=star&style=flat-square"/>
-  <img src="https://custom-icon-badges.demolab.com/github/issues-raw/NSLab-CUK/MVCIB?logo=issue&style=flat-square"/>
-  <img src="https://custom-icon-badges.demolab.com/github/license/NSLab-CUK/MVCIB?logo=law&style=flat-square"/>
+  <img src="https://custom-icon-badges.demolab.com/github/last-commit/NSLab-CUK/CaMol?logo=history&logoColor=white&style=flat-square"/>
+  <img src="https://custom-icon-badges.demolab.com/github/languages/code-size/NSLab-CUK/CaMol?logo=file-code&logoColor=white&style=flat-square"/>
+  <img src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/NSLab-CUK/CaMol?color=purple&logo=git-pull-request&logoColor=white&style=flat-square"/>
+  <img src="https://custom-icon-badges.demolab.com/github/v/tag/NSLab-CUK/CaMol?logo=tag&logoColor=white&style=flat-square"/>
+  <img src="https://custom-icon-badges.demolab.com/github/stars/NSLab-CUK/CaMol?logo=star&style=flat-square"/>
+  <img src="https://custom-icon-badges.demolab.com/github/issues-raw/NSLab-CUK/CaMol?logo=issue&style=flat-square"/>
+  <img src="https://custom-icon-badges.demolab.com/github/license/NSLab-CUK/CaMol?logo=law&style=flat-square"/>
 </p>
 
 <br>
@@ -109,8 +109,8 @@ Please take a look at our unified graph transformer model, [**UGT**](https://git
 
 ## 5. Contributors
 
-<a href="https://github.com/NSLab-CUK/MVCIB/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=NSLab-CUK/MVCIB" />
+<a href="https://github.com/NSLab-CUK/CaMol/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=NSLab-CUK/CaMol" />
 </a>
 
 
