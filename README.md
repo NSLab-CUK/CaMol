@@ -86,7 +86,7 @@ The following options can be passed to the below commands for fine-tuning the mo
 ## 3. Reference
 
 :page_with_curl: Paper [on arXiv](https://arxiv.org/): 
-* [![arXiv](https://img.shields.io/badge/arXiv-2511.18404-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2601.11135) 
+* [![arXiv](https://img.shields.io/badge/arXiv-2601.11135-b31b1b?style=flat-square&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2601.11135) 
 
 
 ## 4. Citing CaMol
